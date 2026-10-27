@@ -1,0 +1,6 @@
+{
+  "name": "Kulon Progo Job Fair 2026",
+  "description": "Website Resmi Kulon Progo Job Fair 2026. Registrasi tiket gratis real-time, direktori perusahaan exhibitor, lowongan kerja terverifikasi, dan jadwal acara interaktif di Taman Budaya Kulon Progo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
